@@ -1,7 +1,7 @@
 
 # Water Container System
 # https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb409/0000000000bef79e
-# Part 1 - 
+# Part 1 - https://youtu.be/xo4Tbs6JABQ
 # part 2 - 
 
 for tests in range(1,int(input())+1):
