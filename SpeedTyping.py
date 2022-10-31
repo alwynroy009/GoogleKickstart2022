@@ -1,3 +1,7 @@
+# explanation at : https://youtu.be/wkiWrqyYhpk
+# Problem statement at : https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7021
+
+
 test_cases = int(input())
 
 for t in range(test_cases):
