@@ -1,3 +1,6 @@
+# Problem Statement : https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb409/0000000000beefbb
+# Explanation : https://youtu.be/eUD7f3zrch0
+
 for tests in range(1,int(input())+1):
     fabrics = []
     no_fabrics = int(input())
