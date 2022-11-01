@@ -1,5 +1,5 @@
 # Problem statement : https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e/00000000009e7997
-# Explanation :
+# Explanation : https://youtu.be/X7yIgMdBSgo
 
 for t in range(1, int(input())+1):
     N = input()
