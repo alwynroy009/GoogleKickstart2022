@@ -1,3 +1,6 @@
+# explanation : https://youtu.be/Mo0Zwougehc
+# problem statement : https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1/0000000000c174f2
+
 for case in range(1, int(input())+1):
     tot_part, days, john_ID = map(int, input().split())
     max_score = [0 for _ in range(days)]
