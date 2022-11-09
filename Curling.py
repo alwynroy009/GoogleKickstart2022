@@ -1,6 +1,6 @@
 # Problem Statement : https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb2e1/0000000000c17c82
 # Problem Explanation : https://youtu.be/QwxgIJhWneE
-# Code Explanation : (Work in progress)
+# Code Explanation : https://youtu.be/CiamCMrVumA
 
 from math import sqrt
 
